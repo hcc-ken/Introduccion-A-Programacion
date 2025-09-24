@@ -11,7 +11,7 @@ Algoritmo EjercicioPseudocodigo2
 	//Escribir C
 	//Escribir restoC
 	//Escribir B , " horas " , C " minutos " , D " segundos "
-	//Cómo hice ésto? Ej:
+	//CÃ³mo hice Ã©sto? Ej:
 	//7600 segundos/3600 segundos = 2 horas, trunc para que sea entero y el resto es 400.
 	//400/60=6 min, trunc para que sea entero.
 	//40 es el resto y asignarle una variable cuyo resultado.
