@@ -1,4 +1,4 @@
-Algoritmo Ejerciciopseudocódigo1
+Algoritmo EjerciciopseudocÃ³digo1
 	Escribir "Introduzca numero A";
 	Leer A;
 	Escribir "Introduzca numero B";
