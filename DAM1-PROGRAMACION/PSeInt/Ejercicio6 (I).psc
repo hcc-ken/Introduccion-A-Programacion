@@ -8,7 +8,7 @@ Algoritmo Ejercicio5
 	D<-A-B;
 	Escribir "La resta es " , D;
 	E<-A*B;
-	Escribir "La multiplicación es " , E;
+	Escribir "La multiplicaciÃ³n es " , E;
 	F<-A/B;
-	Escribir "La división es " , F;
+	Escribir "La divisiÃ³n es " , F;
 FinAlgoritmo
