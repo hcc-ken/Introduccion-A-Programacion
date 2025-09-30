@@ -1,7 +1,8 @@
 Algoritmo Ejercicio10
 	Escribir "Introduzca el tiempo en segundos que desee."
-	Leer A
-	restosSegundos<-A%60
-	minutos<-(A-restosSegundos)/60
-	Escribir minutos " minutos y " restosSegundos " segundos."
+	Leer totalSegundos
+	restosSegundos<-totalSegundos%60
+	segundosFaltantes<-60-restosSegundos
+	Escribir segundosFaltantes
 FinAlgoritmo
+
