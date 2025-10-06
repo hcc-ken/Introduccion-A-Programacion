@@ -1,12 +1,11 @@
 Algoritmo Ejercicio15
+	suma=0
 	Repetir
+		suma=num+suma
 		Si num+suma<=99 Entonces
-			Escribir "Introduzca un número"
+			Escribir "Introduzca un numero."
 			Leer num
-			suma=suma+num
-		SiNo
-			Escribir "El resultado supera 100."
 		FinSi
-	Hasta Que num+suma>99
-	Escribir "El resultado es " suma
+	Hasta Que suma+num>99
+	Escribir suma
 FinAlgoritmo
