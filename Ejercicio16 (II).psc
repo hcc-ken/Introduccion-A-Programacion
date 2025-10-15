@@ -1,6 +1,6 @@
 Algoritmo Ejercicio16
 	Para contador=1 Hasta 10 Hacer
-		Escribir "Escriba un número entero."
+		Escribir "Escriba un nÃºmero entero."
 		Leer num
 		Si num%2=0 Entonces
 			sumPar=num+sumPar
@@ -8,6 +8,6 @@ Algoritmo Ejercicio16
 			sumImpar=num+sumImpar
 		FinSi
 	FinPara
-	Escribir "La suma de los números pares es " sumPar
-	Escribir "La suma de los números impar es " sumImpar
+	Escribir "La suma de los nÃºmeros pares es " sumPar
+	Escribir "La suma de los nÃºmeros impar es " sumImpar
 FinAlgoritmo
