@@ -1,5 +1,5 @@
 Algoritmo Ejercicio3
-	Escribir "Introduzca un número"
+	Escribir "Introduzca un nÃºmero"
 	Leer A
 		Si A=0 Entonces
 			Escribir "No es par ni impar."
