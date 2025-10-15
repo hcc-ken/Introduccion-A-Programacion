@@ -1,7 +1,7 @@
 Algoritmo Ejercicio2
-	Escribir "Introduzca un número"
+	Escribir "Introduzca un nÃºmero"
 	Leer A
-	Escribir "Introduzca otro número"
+	Escribir "Introduzca otro nÃºmero"
 	Leer B
 		Si A=B Entonces
 			Escribir A " es igual que " B
