@@ -1,7 +1,7 @@
 Algoritmo Ejercicio8
-	Escribir "Introduzca día de nacimiento con dos dígitos."
+	Escribir "Introduzca dÃ­a de nacimiento con dos dÃ­gitos."
 	Leer dia
-	Escribir "Introduzca mes de nacimiento con dos dígitos."
+	Escribir "Introduzca mes de nacimiento con dos dÃ­gitos."
 	Leer mes
 	Si (dia>=22 y mes=12) o (dia<=20 y mes=01) Entonces
 		Escribir "Es usted capricornio."
@@ -22,7 +22,7 @@ Algoritmo Ejercicio8
 		Escribir "Es usted geminis."
 	FinSi
 	Si (dia>=22 y mes=06) o (dia<=23 y mes=07) Entonces
-		Escribir "Es usted cáncer."
+		Escribir "Es usted cÃ¡ncer."
 	FinSi
 	Si (dia>=24 y mes=07) o (dia<=23 y mes=08) Entonces
 		Escribir "Es usted leo."
