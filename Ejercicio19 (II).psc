@@ -3,7 +3,7 @@ Algoritmo Ejercicio19
 		Escribir "Introduzca nombre."
 		Leer nombre
 		Si nombre<>"" Entonces
-			Escribir "Introduzca nota de pr·ctica, problemas y teÛrica."
+			Escribir "Introduzca nota de pr√°ctica, problemas y te√≥rica."
 			Leer practica, problemas, teorica
 			Si (practica<0 o practica>10) o (problemas<0 o problemas>10) o (teorica<0 o teorica>10) Entonces
 				Escribir "Error, solamente se aceptan numero enter 0 y 10."
